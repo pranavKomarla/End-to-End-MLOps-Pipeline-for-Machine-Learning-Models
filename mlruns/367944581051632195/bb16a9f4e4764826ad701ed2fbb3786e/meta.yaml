@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/367944581051632195/bb16a9f4e4764826ad701ed2fbb3786e/artifacts
+end_time: 1753178128412
+entry_point_name: ''
+experiment_id: '367944581051632195'
+lifecycle_stage: active
+run_id: bb16a9f4e4764826ad701ed2fbb3786e
+run_name: marvelous-hog-616
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753178128382
+status: 3
+tags: []
+user_id: pranavkomarla

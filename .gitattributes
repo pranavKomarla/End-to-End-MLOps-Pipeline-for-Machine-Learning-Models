@@ -1,0 +1,2 @@
+/1-MLproject/mlartifacts/0/47788eb1c73548128b83fc7788a50f5a/artifacts/model/model.pkl filter=lfs diff=lfs merge=lfs -text
+/1-MLproject/mlartifacts/0/e8b6c7e436a1437783309872a8d64896/artifacts/model/model.pkl filter=lfs diff=lfs merge=lfs -text

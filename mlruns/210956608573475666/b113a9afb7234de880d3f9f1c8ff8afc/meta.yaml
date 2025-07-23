@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/210956608573475666/b113a9afb7234de880d3f9f1c8ff8afc/artifacts
+end_time: 1753239097046
+entry_point_name: ''
+experiment_id: '210956608573475666'
+lifecycle_stage: active
+run_id: b113a9afb7234de880d3f9f1c8ff8afc
+run_name: carefree-worm-262
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753239095407
+status: 3
+tags: []
+user_id: pranavkomarla
