@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/210956608573475666/c1b593a48b654243b813ca160dc6cbb6/artifacts
+end_time: 1753329061490
+entry_point_name: ''
+experiment_id: '210956608573475666'
+lifecycle_stage: active
+run_id: c1b593a48b654243b813ca160dc6cbb6
+run_name: luminous-hound-118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753329059852
+status: 3
+tags: []
+user_id: pranavkomarla

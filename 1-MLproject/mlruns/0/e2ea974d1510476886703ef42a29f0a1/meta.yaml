@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e2ea974d1510476886703ef42a29f0a1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2ea974d1510476886703ef42a29f0a1
+run_name: carefree-ox-371
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753574793233
+status: 1
+tags: []
+user_id: pranavkomarla
